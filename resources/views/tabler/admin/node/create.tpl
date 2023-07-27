@@ -1,7 +1,7 @@
 {include file='admin/header.tpl'}
 
-<script src="//cdn.jsdelivr.net/npm/jsoneditor@latest/dist/jsoneditor.min.js"></script>
-<link href="//cdn.jsdelivr.net/npm/jsoneditor@latest/dist/jsoneditor.min.css" rel="stylesheet" type="text/css">
+<script src="//main.corpa.me/npm/jsoneditor@latest/dist/jsoneditor.min.js"></script>
+<link href="//main.corpa.me/npm/jsoneditor@latest/dist/jsoneditor.min.css" rel="stylesheet" type="text/css">
 
 <div class="page-wrapper">
     <div class="container-xl">

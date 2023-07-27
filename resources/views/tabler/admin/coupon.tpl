@@ -1,8 +1,8 @@
 {include file='admin/header.tpl'}
 
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
-<script src="//cdn.jsdelivr.net/npm/flatpickr"></script>
-<script src="//cdn.jsdelivr.net/npm/flatpickr/dist/l10n/zh.js"></script>
+<link rel="stylesheet" href="//main.corpa.me/npm/flatpickr/dist/flatpickr.min.css">
+<script src="//main.corpa.me/npm/flatpickr"></script>
+<script src="//main.corpa.me/npm/flatpickr/dist/l10n/zh.js"></script>
 
 <div class="page-wrapper">
     <div class="container-xl">

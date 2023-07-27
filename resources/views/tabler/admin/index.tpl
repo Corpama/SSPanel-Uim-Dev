@@ -322,6 +322,6 @@
         });
     </script>
 
-    <script src="//cdn.jsdelivr.net/npm/@tabler/core@latest/dist/libs/apexcharts/dist/apexcharts.min.js"></script>
+    <script src="//main.corpa.me/npm/@tabler/core@latest/dist/libs/apexcharts/dist/apexcharts.min.js"></script>
 
 {include file='admin/footer.tpl'}

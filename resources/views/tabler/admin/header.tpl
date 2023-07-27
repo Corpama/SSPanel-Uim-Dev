@@ -9,13 +9,13 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>{$config['appName']}</title>
     <!-- CSS files -->
-    <link href="//cdn.jsdelivr.net/npm/@tabler/core@latest/dist/css/tabler.min.css" rel="stylesheet" />
-    <link href="//cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" rel="stylesheet" />
+    <link href="//main.corpa.me/npm/@tabler/core@latest/dist/css/tabler.min.css" rel="stylesheet" />
+    <link href="//main.corpa.me/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" rel="stylesheet" />
     <link href="//cdn.datatables.net/v/bs5/dt-1.13.5/datatables.min.css" rel="stylesheet" />
     <!-- JS files -->
-    <script src="//cdn.jsdelivr.net/npm/qrcode_js@latest/qrcode.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/clipboard@latest/dist/clipboard.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+    <script src="//main.corpa.me/npm/qrcode_js@latest/qrcode.min.js"></script>
+    <script src="//main.corpa.me/npm/clipboard@latest/dist/clipboard.min.js"></script>
+    <script src="//main.corpa.me/npm/jquery/dist/jquery.min.js"></script>
     <script src="//cdn.datatables.net/v/bs5/dt-1.13.5/datatables.min.js"></script>
     <style>
         .home-subtitle {

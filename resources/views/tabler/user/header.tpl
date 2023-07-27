@@ -9,13 +9,13 @@
     <meta name="referrer" content="never">
     <title>{$config['appName']}</title>
     <!-- CSS files -->
-    <link href="//cdn.jsdelivr.net/npm/@tabler/core@latest/dist/css/tabler.min.css" rel="stylesheet" />
-    <link href="//cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" rel="stylesheet" />
+    <link href="//main.corpa.me/npm/@tabler/core@latest/dist/css/tabler.min.css" rel="stylesheet" />
+    <link href="//main.corpa.me/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" rel="stylesheet" />
     <!-- JS files -->
     <script src="/assets/js/fuck.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/qrcode_js@latest/qrcode.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/clipboard@latest/dist/clipboard.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+    <script src="//main.corpa.me/npm/qrcode_js@latest/qrcode.min.js"></script>
+    <script src="//main.corpa.me/npm/clipboard@latest/dist/clipboard.min.js"></script>
+    <script src="//main.corpa.me/npm/jquery/dist/jquery.min.js"></script>
     <style>
         .home-subtitle {
             font-size: 14px;

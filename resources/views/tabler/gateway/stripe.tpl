@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/core@latest/dist/css/tabler-payments.min.css">
+<link rel="stylesheet" href="https://main.corpa.me/npm/@tabler/core@latest/dist/css/tabler-payments.min.css">
 
 <div class="card-inner">
     <h4>
